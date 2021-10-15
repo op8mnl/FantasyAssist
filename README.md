@@ -1,1 +1,1 @@
-# FantasyAssist
+# NBA-StatModel

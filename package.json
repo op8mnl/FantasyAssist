@@ -1,0 +1,25 @@
+{
+  "name": "fantasy-assist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./GUI/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/op8mnl/NBA-StatModel.git"
+  },
+  "author": "Felix Zheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/op8mnl/NBA-StatModel/issues"
+  },
+  "homepage": "https://github.com/op8mnl/NBA-StatModel#readme",
+  "devDependencies": {
+    "electron": "^13.0.1"
+  },
+  "dependencies": {
+    "python-shell": "^3.0.0"
+  }
+}
